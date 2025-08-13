@@ -27,8 +27,8 @@ const AppContent: React.FC = () => {
         "marginLeft": 20,
         "marginRight": 20,
         "btnPosition": "right",
-        "whatsAppNumber": "+923462054847",
-        "welcomeMessage": "I am here from Your website.",
+        "whatsAppNumber": "+923310321188",
+        "welcomeMessage": "I am here from Your website Hasi Sim DataBase.",
         "zIndex": 999999,
         "btnColorScheme": "light"
       };
