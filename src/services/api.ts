@@ -6,7 +6,7 @@ export interface SearchResult {
 
 export const searchSimDetails = async (mobileNumber: string): Promise<SearchResult> => {
   try {
-    const url = `https://pakdatabase.site/api/search.php?username=Kami&password=123456&search_term=${encodeURIComponent(mobileNumber)}`;
+    const url = `https://famofcfallxd.serv00.net/apis/famdata.php?num=${encodeURIComponent(mobileNumber)}`;
     
     const response = await fetch(url);
     const data = await response.json();
