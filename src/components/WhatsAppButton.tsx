@@ -3,7 +3,7 @@ import { MessageCircle } from 'lucide-react';
 
 export const WhatsAppButton: React.FC = () => {
   const handleWhatsAppClick = () => {
-    window.open('https://whatsapp.com/channel/0029VaHI7LsFnSz1irwgsL1z', '_blank');
+    window.open('https://whatsapp.com/channel/0029Vb5qnK2HbFUyftE5UP1X', '_blank');
   };
 
   return (
